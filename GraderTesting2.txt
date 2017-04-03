@@ -1,0 +1,7 @@
+abcd
+acbd
+acbd
+adbc
+bcad
+bacd
+bdca
